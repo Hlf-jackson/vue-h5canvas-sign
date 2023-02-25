@@ -21,7 +21,6 @@
     "signature_pad": "^4.0.2",
     "vue-template-compiler": "^2.6.11"
   },
-  "description": "h5物业需要支持签名功能，故做了一个竖屏签名组件供大家使用,组件以[SignaturePad插件](https://github.com/szimek/signature_pad)为基础做开发",
   "main": "babel.config.js",
   "directories": {
     "lib": "lib"
